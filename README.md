@@ -4,6 +4,8 @@ A nocturnal coastal theme for [Omarchy](https://omarchy.org), built around seven
 
 The palette pairs deep Atlantic navy surfaces with aged ivory text, moonlit blue and cyan utility colors, and the lighthouse's coral masonry as the primary accent. It uses Yaru's `prussiangreen` icon variant.
 
+Companion theme: [Jupiter Lighthouse Light](https://github.com/rblalock/omarchy-jupiter-lighthouse-light-theme)
+
 ## Install
 
 ```bash
