@@ -1,0 +1,32 @@
+mode = "dark"
+
+# Jupiter Lighthouse coral against a deep Atlantic nocturne.
+accent = "#D06A49"
+selection = "#1C3559"
+muted = "#62656B"
+
+background = "#040C1D"
+dark_background = "#020714"
+darker_background = "#01040C"
+lighter_background = "#0D1D38"
+
+foreground = "#DED5BA"
+dark_foreground = "#7C8291"
+light_foreground = "#ECE5D2"
+bright_foreground = "#F9F7E3"
+
+red = "#E36C5C"
+yellow = "#D9B95C"
+orange = "#E88A4F"
+green = "#7FA47A"
+cyan = "#71C5D9"
+blue = "#6E94DF"
+magenta = "#A786C4"
+brown = "#A97558"
+
+bright_red = "#F0806D"
+bright_yellow = "#F0CF6A"
+bright_green = "#94B88F"
+bright_cyan = "#83D8E8"
+bright_blue = "#8CAAF0"
+bright_magenta = "#BE9ADB"
