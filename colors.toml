@@ -2,6 +2,7 @@ mode = "dark"
 
 # Jupiter Lighthouse coral against a deep Atlantic nocturne.
 accent = "#D06A49"
+hud = "#E36C5C"
 selection = "#1C3559"
 muted = "#62656B"
 
